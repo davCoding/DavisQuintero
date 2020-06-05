@@ -55,6 +55,7 @@ body {
   flex-direction: column;
   font-family: "zurchlc";
   font-family: "Arial Narrow";
+  font-family: "Segoe UI";
   text-rendering: optimizeSpeed;
   overflow-x: hidden;
   color: var(--cl-txt-grey);
@@ -290,7 +291,7 @@ main {
 
 .box-proyect {
   margin: auto;
-  height: 34rem;
+  height: 36rem;
   width: 100%;
   background-image: url(../img/fondos/dq_f4.jpg);
   background-size: cover;
@@ -312,7 +313,7 @@ main {
   border-right: medium solid var(--cl-lime);
   border-radius: 0.7rem;
   padding: 0.5rem;
-  height: 15rem;
+  height: 16rem;
   width: 13rem;
   text-decoration: none;
   color: var(--cl-txt-grey);
