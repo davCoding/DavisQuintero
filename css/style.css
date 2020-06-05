@@ -55,7 +55,6 @@ body {
   flex-direction: column;
   font-family: "zurchlc";
   font-family: "Arial Narrow";
-  font-family: "Segoe UI";
   text-rendering: optimizeSpeed;
   overflow-x: hidden;
   color: var(--cl-txt-grey);
