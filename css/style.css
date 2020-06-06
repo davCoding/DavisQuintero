@@ -111,6 +111,10 @@ main {
   width: 1.5rem;
 }
 
+.box-social > a > img:hover {
+  transform: scale(1.3);
+}
+
 .item-menu {
   border-radius: 0.5rem;
   padding: 0.5rem;
