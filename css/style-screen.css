@@ -4,9 +4,9 @@
   /* Style - Generales */
   /* ================ */
   /* ----- Style - Header ----- */
-  .container-header {
+  /* .container-header {
     background-color: yellow;
-  }
+  }*/
 }
 
 @media screen and (min-width: 30em) /* size: x */ {
@@ -14,14 +14,9 @@
   /* Style - Generales */
   /* ================ */
   /* ----- Style - Header ----- */
-  .container-header {
+  /*.container-header {
     background-color: blue;
-  }
-
-  /* ======== */
-  /* Style - Index */
-  /* ======== */
-  /* ----- Style - Index ----- */
+  }*/
 }
 
 @media screen and (min-width: 37.5em) /* size: xs */ {
@@ -29,9 +24,9 @@
   /* Style - Generales */
   /* ================ */
   /* ----- Style - Header ----- */
-  .container-header {
+  /* .container-header {
     background-color: red;
-  }
+  }*/
 }
 
 @media screen and (min-width: 48em) /* size: m */ {
@@ -39,9 +34,9 @@
   /* Style - Generales */
   /* ================ */
   /* ----- Style - Header ----- */
-  .container-header {
+  /*.container-header {
     background-color: lime;
-  }
+  }*/
 
   .box-logo > img {
     width: 16rem;
@@ -103,9 +98,9 @@
   /* Style - Generales */
   /* ================ */
   /* ----- Style - Header ----- */
-  .container-header {
+  /*.container-header {
     background-color: orange;
-  }
+  }*/
 
   /* ========
   Style - Proyect 
@@ -121,9 +116,9 @@
   /* Style - Generales */
   /* ================ */
   /* ----- Style - Header ----- */
-  .container-header {
+  /*.container-header {
     background-color: green;
-  }
+  }*/
 }
 
 @media screen and (min-width: 80em) /* g */ {
@@ -131,7 +126,7 @@
   /* Style - Generales */
   /* ================ */
   /* ----- Style - Header ----- */
-  .container-header {
+  /* .container-header {
     background-color: #fff;
-  }
+  }*/
 }
