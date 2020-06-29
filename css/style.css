@@ -160,7 +160,6 @@ main {
 
 .box-photo > img {
   border-radius: 100%;
-
   width: 8rem;
 }
 
@@ -344,10 +343,8 @@ main {
 }
 
 .box-card {
-  margin: auto;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  flex-wrap: nowrap;
   box-shadow: 0 0 1.25rem 0.063rem rgba(0, 0, 0, 0.75);
 }
 
@@ -370,11 +367,6 @@ main {
 
 .item-p-card > p {
   font-size: 1.1rem;
-  text-align: center;
-}
-
-.item-p-detail > p {
-  font-size: 1.5rem;
   text-align: center;
 }
 
@@ -434,6 +426,11 @@ main {
   cursor: pointer;
   color: var(--cl-txt-white);
   background-color: var(--cl-lime);
+}
+
+.item-p-detail > p {
+  font-size: 1.5rem;
+  text-align: center;
 }
 
 /* ======== */
